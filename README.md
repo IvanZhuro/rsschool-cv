@@ -1,1 +1,1 @@
-*** Readme
+CV for RSSchool
