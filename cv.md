@@ -1,6 +1,6 @@
 ### 1. Full Name: Ivan Zhuro
 ### 2. Contact Information: [telegram](https://www.t.me/ivanzhuroby)
-### 3.
+### 3. Hello everyone. I'm studying frontend
 ### 4. Skills:
 ####    1. HTML
 ####    2. CSS
