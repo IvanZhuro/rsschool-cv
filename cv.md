@@ -1,4 +1,5 @@
-**1. Full Name:** Ivan Zhuro
+**1.** Full Name: Ivan Zhuro
+
 2. Contact Information: [telegram](https://www.t.me/ivanzhuroby)
 3. Hello everyone. I'm studying frontend
 4. Skills:
