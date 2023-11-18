@@ -2,8 +2,8 @@
 ### 2. Contact Information: [telegram](https://www.t.me/ivanzhuroby)
 ### 3. Hello everyone. I'm studying frontend
 ### 4. Skills:
-    - HTML
-    - CSS
+####  - HTML
+    - #### CSS
 ####    - JavaScript
 ### 5. Code Examples:
 ```JavaScript
