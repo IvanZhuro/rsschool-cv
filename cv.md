@@ -2,9 +2,9 @@
 ### 2. Contact Information: [telegram](https://www.t.me/ivanzhuroby)
 ### 3. Hello everyone. I'm studying frontend
 ### 4. Skills:
-####    1. HTML
-####    2. CSS
-####    3. JavaScript
+####    - HTML
+####    - CSS
+####    - JavaScript
 ### 5. Code Examples:
 ```JavaScript
    const number = prompt('Enter the number: ');
