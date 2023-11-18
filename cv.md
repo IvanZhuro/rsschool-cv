@@ -5,8 +5,7 @@
     - HTML
     - CSS
     - JavaScript
-
-### 5. Code Examples :
+### 5. Code Examples:
 ```JavaScript
    const number = prompt('Enter the number: ');
    const result = Math.sqrt(number);
