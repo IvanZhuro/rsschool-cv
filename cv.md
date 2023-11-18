@@ -1,7 +1,3 @@
-1. ## Full Name:
-    ### Ivan Zhuro
-
-
-## Ivan Zhuro
----
-## 
+### 1. Full Name:
+###     Ivan Zhuro
+### 8. English proficiency level: A1
