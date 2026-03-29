@@ -32,7 +32,7 @@ var canBeEqual = function(s1, s2) {
 - **Higher education**
    + Sukhoi State Technical University of Gomel. Mechanical engineering technology. Engineer.
 - **Curses**
-   + JS / Front-end Pre-school RU Course (*in progress*)
+   + [JS / Front-end Pre-school RU Course (*in progress*)](https://rs.school/courses/javascript-preschool-ru)
 - **Books**
    + [Version Control with Git, 3rd Edition](https://www.oreilly.com/library/view/version-control-with/9781492091189/)
 
