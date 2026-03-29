@@ -2,7 +2,7 @@
 
 ## Contact information:
 - **Phone:** +375(44)774-95-04
-- **E-mail:** ivan.zhuro.by@gmail.com
+- **E-mail:** <ivan.zhuro.by@gmail.com>
 - **Telegram:** [@draniki_v_smetane](https://t.me/draniki_v_smetane)
   
 ---
