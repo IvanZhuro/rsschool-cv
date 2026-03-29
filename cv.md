@@ -1,23 +1,21 @@
-### Ivan Zhuro
+# Ivan Zhuro
 
----
-
-### Contact information:
-- Phone: +375(44)774-95-04
-- E-mail: ivan.zhuro.by@gmail.com
-- Telegram: [@draniki_v_smetane](https://t.me/draniki_v_smetane)
+## Contact information:
+- **Phone:** +375(44)774-95-04
+- **E-mail:** ivan.zhuro.by@gmail.com
+- **Telegram:** [@draniki_v_smetane](https://t.me/draniki_v_smetane)
   
 ---
 
-### About me
+## About me
 
 ---
 
-### Skills
+## Skills
 
 ---
 
-### Code example
+## Code example
 ```Javascript
 /**
  * @param {string} s1
@@ -30,10 +28,10 @@ var canBeEqual = function(s1, s2) {
 ```
 ---
 
-### Education
+## Education
 
 ---
 
-### Language
+## Language
 - **Russian** - *Native*
 - **English** - *A1*
