@@ -39,5 +39,5 @@ var canBeEqual = function(s1, s2) {
 ---
 
 ## Language
-- **Russian** - *Native*
-- **English** - *A1(*in progress*)*
+- **Russian** - Native
+- **English** - A1(*in progress*)
