@@ -40,6 +40,4 @@ var canBeEqual = function(s1, s2) {
 
 ## Language
 - **Russian** - *Native*
-- **English** - *A1*
-
-[https://www.oreilly.com/library/view/version-control-with/9781492091189/]: https://www.oreilly.com/library/view/version-control-with/9781492091189/
+- **English** - *A1(*in progress*)*
