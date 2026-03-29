@@ -1,11 +1,27 @@
-### Firstname: Ivan
-Secondname: Z
-====  
-*hu*
----
-`hello world`
+### Ivan Zhuro
 
-```javascript
-const b=3
+### Contact information:
+- Phone: +375(44)774-95-04
+- E-mail: ivan.zhuro.by@gmail.com
+- Telegram: [@draniki_v_smetane](https://t.me/draniki_v_smetane)
+
+### About me
+
+### Skills
+
+### Code example
+```Javascript
+/**
+ * @param {string} s1
+ * @param {string} s2
+ * @return {boolean}
+ */
+var canBeEqual = function(s1, s2) {
+    
+};
 ```
-[max](https://max.ru/)
+### Education
+
+### Language
+- **Russian** - *Native*
+- **English** - *A1*
