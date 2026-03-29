@@ -30,7 +30,7 @@ var canBeEqual = function(s1, s2) {
 
 ## Education
 - **Higher education**
-   + Sukhoi State Technical University of Gomel. Mechanical engineering technology. Engineer.
+   + [Sukhoi State Technical University of Gomel. Mechanical engineering technology. Engineer.](https://en.gstu.by/)
 - **Curses**
    + [JS / Front-end Pre-school RU Course (*in progress*)](https://rs.school/courses/javascript-preschool-ru)
 - **Books**
